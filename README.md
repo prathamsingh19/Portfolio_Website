@@ -8,7 +8,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - **Responsive Design**: Optimized for all devices and screen sizes. 
 - **Project Showcase**: A well-organized section highlighting my best work. 
 - **Skill Showcase**: Clearly displays my technical skills and expertise. 
-- **Contact Form**: Easily reach out to me for inquiries or collaborations. 
+- **Smooth UI/UX**: Best modern user interface.
 
 ## Technologies Used ⚙️
 
